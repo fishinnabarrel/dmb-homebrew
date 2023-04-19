@@ -1,10 +1,8 @@
 # dmb-homebrew
 
-### This repository is no longer active! ###
+A collection of homebrew databases for [Diamond Mind Baseball](https://diamond-mind.com) converted to be compatible with the **version 12** game.
 
-A collection of homebrew databases for [Diamond Mind Baseball](https://diamond-mind.com) converted to be compatible with the **version 11** game.
-
-These files are stored here for the sole purpose of providing a reliable backup for the [Homebrew Season Repository](https://www.tapatalk.com/groups/fansofdmb/homebrewed-season-repository-t5397.html) located on the [Fans of Diamond Mind Baseball](https://www.tapatalk.com/groups/fansofdmb/) community forums.  Most of the these files are no longer available from the original source or are not in a format that is compatible with version 11 of the Diamond Mind Baseball game software.
+These files are stored here for the sole purpose of providing a reliable backup for the [Homebrew Season Repository](https://www.tapatalk.com/groups/fansofdmb/homebrewed-season-repository-t5397.html) located on the [Fans of Diamond Mind Baseball](https://www.tapatalk.com/groups/fansofdmb/) community forums.  Most of the these files are no longer available from the original source or the original source does offer files in a format that is compatible with the latest version of the Diamond Mind Baseball game software.
 
 
 ### Installation Instructions:
