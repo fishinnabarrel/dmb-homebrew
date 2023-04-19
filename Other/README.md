@@ -2,7 +2,7 @@
 <table class="post_content_table"><tbody><tr><td><strong>Description/Source</strong></td>
 <td><strong>Contributors</strong></td>
 <td><strong>Notes</strong></td>
-<td><strong>Ver. 11 Download</strong></td>
+<td><strong>Ver. 12 Download</strong></td>
 </tr>
 <tr><td><a href="http://www.baseballthinkfactory.org/oracle/discussion/2009_zips_projection_disk_for_diamond_mind_9_final" target="_blank" class="postlink" rel="noreferrer">2009 ZiPS Projections</a></td>
 <td>Dan Szymborski</td>
