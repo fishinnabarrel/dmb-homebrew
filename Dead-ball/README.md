@@ -4,8 +4,7 @@
 <td><strong>Notes</strong></td>
 <td><strong>Ver. 12 Download</strong></td>
 </tr>
-<tr><td><a href="http://www.stephendrake.com/homebrew.html#1900" target="_blank" class="postlink" rel="noreferrer">1900 National League<br>
-&amp; American League</a></td>
+<tr><td><a href="http://www.stephendrake.com/homebrew.html#1900" target="_blank" class="postlink" rel="noreferrer">1900 National League</a></td>
 <td>Robert Bofors &amp; James Marshall</td>
 <td>July 14, 2007 Version</td>
 <td><a href="https://github.com/fishinnabarrel/dmb-homebrew/raw/master/Dead-ball/1900-20070714.zip" target="_blank" class="postlink" rel="noreferrer">1900-20070714.zip</a></td>
